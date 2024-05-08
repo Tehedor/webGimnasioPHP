@@ -35,7 +35,7 @@
                   Gimnasio y Club Deportivo
                 </p>
               </div>
-              <img src="assets/images/hero/fondo_resized_croped.png" alt="hero-image" />
+              <img src="assets/images/hero/fondo_resized_croped2.png" alt="hero-image" />
 
             </div>
             

@@ -105,10 +105,10 @@
     <textarea name="message" rows="4" placeholder="Escriba su mensaje aqui..."></textarea>
   </div>
   <div class="file" style="margin-bottom  : 20px;">
-     <fieldset>
+    <fieldset>
         <label for="foto"> Introduce Foto</label>
         <input type="file" name="foto" id="foto">  
-     </fieldset>
+    </fieldset>
   </div>
   
 

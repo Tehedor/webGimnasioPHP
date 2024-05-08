@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-$db_host = 'localhost';
-$db_user = 'root';
-$db_password = '12345678';
-$db_name = 'tewcdaatabase';
+$db_host = 'sql310.infinityfree.com';
+$db_user = 'if0_36437702';
+$db_password = 'Zw5pFn5qqC5';
+$db_name = 'if0_36437702_usuarios';
 
 try {
     // Crear conexión

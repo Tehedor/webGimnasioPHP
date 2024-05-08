@@ -640,7 +640,8 @@ p {
 .ud-hero-image-rectangle {
   position: absolute;
   z-index: 1;
-  background-color: rgba(197, 142, 94, 0.7); 
+  background-color: rgba(197, 142, 94, 0.93); 
+  /* background-color: rgba(197, 142, 94, 0.7);  */
   border: 3px solid #C58E5E;
   width: 30%;
   height: auto; /* change to auto to fit the content */
